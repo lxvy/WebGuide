@@ -1,4 +1,4 @@
-/* 
+/*
 * @Author: luuman
 * @Last Modified by:   luuman
 * @Date:   2016-03-09 13:13:56
@@ -15,7 +15,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"前端教程",
             "pageC2":[
-                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"}, 
+                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"},
                 {'Name':'极客学院','Title':'在线视频教学，强大的知识体系','Href':'http://www.jikexueyuan.com/'},
                 {'Name':'teamtree','Title':'改变你的事业。改变你的生活。','Href':'https://teamtreehouse.com/'},
                 {'Name':'Codecademy','Title':'Codecademy是最简单的方式来学习如何编码。这是互动的，有趣的，你可以做它与你的朋友','Href':'https://www.codecademy.com/learn',"New":"1"},
@@ -76,7 +76,7 @@ var FrontGuide = {
             "pageT2":"国外前端",
             "pageC2":[
                 {'Name':'codrops','Title':'创意思维的有用资源和灵感','Href':'http://tympanus.net/codrops/'},
-                {'Name':'codepen','Title':'前端开发人员游乐场和代码编辑器在浏览器','Href':'http://codepen.io/'}, 
+                {'Name':'codepen','Title':'前端开发人员游乐场和代码编辑器在浏览器','Href':'http://codepen.io/'},
                 {'Name':'CSS-Tricks','Title':'','Href':'http://css-tricks.com/'},
                 {'Name':'WebPlatform','Title':'','Href':'http://www.webplatform.org/'},
                 {'Name':'SmashingMagazine','Title':'smashingmagazine是为WEB开发人员提供的一个在线杂志','Href':'http://smashingmagazine.com'},
@@ -187,7 +187,7 @@ var FrontGuide = {
                 {'Name':'JS中国开发者大会','Title':'','Href':'http://jsconf.cn/'},
                 {'Name':'JS中国开发者大会','Title':'','Href':'http://jsconf.cn/'}
             ]
-            
+
         }]},{
         "pageT1":"CSS/HTML",
         "pageC1":[{
@@ -246,7 +246,7 @@ var FrontGuide = {
                 {'Name':'css3的画廊图片切换3d翻转效果','Title':'','Href':'http://www.htmleaf.com/css3/css3donghua/2014100881.html'},
                 {'Name':'5+ App','Title':'','Href':'http://ask.dcloud.net.cn/explore/'}
             ]
-            
+
         }]},{
         "pageT1":"JavaScript",
         "pageC1":[{
@@ -315,7 +315,7 @@ var FrontGuide = {
                 {'Name':'knockoutjs','Title':'Knockout 是个JavaScript library，帮助创建丰富的显示和编辑器UI，通过干净的底层数据模型，你可以在任何时候动态更新UI的选择部分','Href':'http://knockoutjs.com/'},
                 {'Name':'vuejs','Title':'数据驱动的组件，为现代化的 Web 界面而生','Href':'http://cn.vuejs.org/'}
             ]
-            
+
         }]},{
         "pageT1":"移动端/响应式",
         "pageC1":[{
@@ -349,7 +349,7 @@ var FrontGuide = {
                 {'Name':'nodejs','Title':'','Href':'http://nodejs.org/'},
                 {'Name':'curl.js','Title':'','Href':'https://github.com/cujojs/curl'}
             ]
-            
+
         }]},{
         "pageT1":"文档/资源库",
         "pageC1":[{
@@ -587,7 +587,7 @@ var FrontGuide = {
                 {'Name':'Pro Git v2 中文版','Title':'','Href':'http://wiki.jikexueyuan.com/project/pro-git-two/'},
                 {'Name':'像 geek 一样写博客','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-page/'}
             ]
-            
+
         }]},{
         "pageT1":"找工作",
         "pageC1":[{
@@ -597,9 +597,12 @@ var FrontGuide = {
                 {'Name':'拉勾网','Title':'最专业的互联网招聘平台','Href':'http://www.lagou.com'},
                 {'Name':'哪上班','Title':'高质量互联网人才','Href':'https://www.nashangban.com/'},
                 {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
-                {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'}
+                {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'},
+                {'Name':'大街网','Title':'大学生找工作平台','Href':'http://www.dajie.com/'},
+                {'Name':'应届生求职网','Title':'应届生','Href':'http://www.yingjiesheng.com/'},
+                {'Name':'北京邮电大学就业信息网','Title','北京邮电大学','Href':'http://job.bupt.edu.cn/'}
             ]
-            
+
         }]},{
         "pageT1":"我的链接",
         "pageC1":[{
@@ -608,7 +611,7 @@ var FrontGuide = {
                 {'Name':'主页','Title':'爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。','Href':'http://lxvy.github.io/'},
                 {'Name':'博客','Title':'因为有了危机感，所以会义无反顾。','Href':'http://lxvy.github.io/'},
                 {'Name':'项目','Title':'开发项目','Href':'http://lxvy.github.io/works/'},
-                {'Name':'原生Js','Title':'记录自己学习原生JavaScript的路径','Href':'http://lxvy.github.io/works/'}
+                {'Name':'书架','Title':'看过的书籍收集','Href':'http://lxvy.github.io/book/'}
             ]
             },{
             "pageT2":"国内博客",
@@ -721,7 +724,7 @@ var FrontGuide = {
                 {'Name':'NicholasZakas','Title':'《高性能JavaScript》作者"','Href':'http://www.nczonline.net/'},
                 {'Name':'Addy Osmani','Title':'《Learning JavaScript Design Patterns 》作者"','Href':'http://addyosmani.com/'}
             ]
-            
+
         }],
     }],
 }
