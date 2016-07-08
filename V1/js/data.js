@@ -1,4 +1,4 @@
-/*
+/* 
 * @Author: luuman
 * @Last Modified by:   luuman
 * @Date:   2016-03-09 13:13:56
@@ -15,7 +15,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"前端教程",
             "pageC2":[
-                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"},
+                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"}, 
                 {'Name':'极客学院','Title':'在线视频教学，强大的知识体系','Href':'http://www.jikexueyuan.com/'},
                 {'Name':'teamtree','Title':'改变你的事业。改变你的生活。','Href':'https://teamtreehouse.com/'},
                 {'Name':'Codecademy','Title':'Codecademy是最简单的方式来学习如何编码。这是互动的，有趣的，你可以做它与你的朋友','Href':'https://www.codecademy.com/learn',"New":"1"},
@@ -56,7 +56,7 @@ var FrontGuide = {
                 {'Name':'W3Cfuns','Title':'','Href':'http://www.w3cfuns.com/'},
                 {'Name':'w3ctech','Title':'','Href':'http://www.w3ctech.com/'},
                 {'Name':'W3Cplus','Title':'','Href':'http://www.w3cplus.com/'},
-                {'Name':'爱编程','Title':'','Href':'http://www.w2bc.com/'},
+                {'Name':'爱编程','Title':'','Href':'http://www.w2bc.com/web'},
                 {'Name':'w3cfuns','Title':'','Href':'http://www.w3cfuns.com/'},
                 {'Name':'WEB骇客','Title':'HTML5, CSS3, WEB前端开发技术','Href':'http://www.webhek.com/'},
                 {'Name':'开源中国','Title':'','Href':'http://www.oschina.net/'},
@@ -76,7 +76,7 @@ var FrontGuide = {
             "pageT2":"国外前端",
             "pageC2":[
                 {'Name':'codrops','Title':'创意思维的有用资源和灵感','Href':'http://tympanus.net/codrops/'},
-                {'Name':'codepen','Title':'前端开发人员游乐场和代码编辑器在浏览器','Href':'http://codepen.io/'},
+                {'Name':'codepen','Title':'前端开发人员游乐场和代码编辑器在浏览器','Href':'http://codepen.io/'}, 
                 {'Name':'CSS-Tricks','Title':'','Href':'http://css-tricks.com/'},
                 {'Name':'WebPlatform','Title':'','Href':'http://www.webplatform.org/'},
                 {'Name':'SmashingMagazine','Title':'smashingmagazine是为WEB开发人员提供的一个在线杂志','Href':'http://smashingmagazine.com'},
@@ -187,7 +187,7 @@ var FrontGuide = {
                 {'Name':'JS中国开发者大会','Title':'','Href':'http://jsconf.cn/'},
                 {'Name':'JS中国开发者大会','Title':'','Href':'http://jsconf.cn/'}
             ]
-
+            
         }]},{
         "pageT1":"CSS/HTML",
         "pageC1":[{
@@ -246,7 +246,7 @@ var FrontGuide = {
                 {'Name':'css3的画廊图片切换3d翻转效果','Title':'','Href':'http://www.htmleaf.com/css3/css3donghua/2014100881.html'},
                 {'Name':'5+ App','Title':'','Href':'http://ask.dcloud.net.cn/explore/'}
             ]
-
+            
         }]},{
         "pageT1":"JavaScript",
         "pageC1":[{
@@ -315,7 +315,7 @@ var FrontGuide = {
                 {'Name':'knockoutjs','Title':'Knockout 是个JavaScript library，帮助创建丰富的显示和编辑器UI，通过干净的底层数据模型，你可以在任何时候动态更新UI的选择部分','Href':'http://knockoutjs.com/'},
                 {'Name':'vuejs','Title':'数据驱动的组件，为现代化的 Web 界面而生','Href':'http://cn.vuejs.org/'}
             ]
-
+            
         }]},{
         "pageT1":"移动端/响应式",
         "pageC1":[{
@@ -349,7 +349,7 @@ var FrontGuide = {
                 {'Name':'nodejs','Title':'','Href':'http://nodejs.org/'},
                 {'Name':'curl.js','Title':'','Href':'https://github.com/cujojs/curl'}
             ]
-
+            
         }]},{
         "pageT1":"文档/资源库",
         "pageC1":[{
@@ -587,7 +587,7 @@ var FrontGuide = {
                 {'Name':'Pro Git v2 中文版','Title':'','Href':'http://wiki.jikexueyuan.com/project/pro-git-two/'},
                 {'Name':'像 geek 一样写博客','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-page/'}
             ]
-
+            
         }]},{
         "pageT1":"找工作",
         "pageC1":[{
@@ -597,21 +597,18 @@ var FrontGuide = {
                 {'Name':'拉勾网','Title':'最专业的互联网招聘平台','Href':'http://www.lagou.com'},
                 {'Name':'哪上班','Title':'高质量互联网人才','Href':'https://www.nashangban.com/'},
                 {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
-                {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'},
-                {'Name':'大街网','Title':'大学生找工作平台','Href':'http://www.dajie.com/'},
-                {'Name':'应届生求职网','Title':'应届生','Href':'http://www.yingjiesheng.com/'},
-                {'Name':'北京邮电大学就业信息网','Title','北京邮电大学','Href':'http://job.bupt.edu.cn/'}
+                {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'}
             ]
-
+            
         }]},{
         "pageT1":"我的链接",
         "pageC1":[{
             "pageT2":"我的链接",
             "pageC2":[
-                {'Name':'主页','Title':'爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。','Href':'http://lxvy.github.io/'},
-                {'Name':'博客','Title':'因为有了危机感，所以会义无反顾。','Href':'http://lxvy.github.io/'},
-                {'Name':'项目','Title':'开发项目','Href':'http://lxvy.github.io/works/'},
-                {'Name':'书架','Title':'看过的书籍收集','Href':'http://lxvy.github.io/book/'}
+                {'Name':'主页','Title':'爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。','Href':'http://luuman.github.io/Home/'},
+                {'Name':'博客','Title':'因为有了危机感，所以会义无反顾。','Href':'http://luuman.github.io/'},
+                {'Name':'项目','Title':'开发项目','Href':'http://luuman.github.io/works/'},
+                {'Name':'原生Js','Title':'记录自己学习原生JavaScript的路径','Href':'http://luuman.github.io/works/'}
             ]
             },{
             "pageT2":"国内博客",
@@ -688,30 +685,71 @@ var FrontGuide = {
                 {'Name':'hankin技术宅','Title':'hankin技术宅','Href':'http://www.hankin.cn/'},
                 {'Name':'蘇陽誌','Title':'給時光以生命','Href':'http://www.yloveq.com/'},
                 {'Name':'罗磊','Title':'在每一个美好的思想前停留','Href':'https://luolei.org/'},
-                 {'Name':'蒙晨(波希米亚)','Title':'就职于豆瓣','Href':'http://blog.b3inside.com/'},
-                 {'Name':'糖伴西红柿','Title':'就职于豆瓣','Href':'http://www.gaowhen.com/'},
-                 {'Name':'明城(mingcheng)','Title':'就职于淘宝','Href':'http://www.gracecode.com/'},
-                 {'Name':'Yuguo','Title':'就职于腾讯','Href':'http://yuguo.us/weblog/'},
-                 {'Name':'臭鱼','Title':'曾就职于腾讯','Href':'http://www.chouyu.com.cn/'},
-                 {'Name':'艾文王','Title':'就职于腾讯','Href':'http://blog.ivane.me/'},
-                 {'Name':'Danger','Title':'就职于腾讯','Href':'http://www.dengjie.com/'},
-                 {'Name':'神飞','Title':'就职于腾讯','Href':'http://www.qianduan.net/'},
-                 {'Name':'屈超','Title':'就职于腾讯','Href':'http://www.quchao.com/'},
-                 {'Name':'米随随','Title':'就职于腾讯','Href':'http://s5s5.me/'},
-                 {'Name':'AVENIR(郑焕义)','Title':'就职于腾讯','Href':'http://caib.me/'},
-                 {'Name':'OnLing','Title':'就职于腾讯','Href':'http://www.onling.net/blog/'},
-                 {'Name':'Xiaoxiao','Title':'就职于腾讯','Href':'http://liuyuntian.com/'},
-                 {'Name':'Jeanne','Title':'就职于腾讯','Href':'http://csshouse.net/'},
-                 {'Name':'愚人码头','Title':'就职于搜道网','Href':'http://www.css88.com/'},
-                 {'Name':'smallni','Title':'就职于携程','Href':'http://www.smallni.com/'},
-                 {'Name':'彬Go','Title':'就职于人人','Href':'http://blog.bingo929.com/'},
-                 {'Name':'崔凯','Title':'就职于傲游','Href':'http://uicss.cn/'},
-                 {'Name':'welefen','Title':'就职于百度','Href':'http://www.welefen.com/'},
-                 {'Name':'kent.zhu','Title':'就职于百度','Href':'http://www.ikent.me/blog/'},
-                 {'Name':'aoao(嗷嗷)','Title':'就职于百度','Href':'http://www.aoao.org.cn/'},
-                 {'Name':'JerryQu','Title':'就职于百度','Href':'http://www.imququ.com/'},
-                 {'Name':'5key','Title':'就职于阿里巴巴','Href':'http://5key.net/blog/'},
-                 {'Name':'yaohaixiao','Title':'就职于阿里巴巴','Href':'http://www.yaohaixiao.com/'}
+                // {'Name':'蜜蜂的蜂窝','Title':'手残的自虐之路','Href':'http://vikk.xyz/'},
+                // {'Name':'Kejun','Title':'就职于豆瓣','Href':'http://hikejun.com/'},
+                // {'Name':'Donkey(倔倔)','Title':'就职于豆瓣','Href':'http://imdonkey.com/'},
+                // {'Name':'蒙晨(波希米亚)','Title':'就职于豆瓣','Href':'http://blog.b3inside.com/'},
+                // {'Name':'greengnn(老卡)','Title':'就职于豆瓣','Href':'http://www.cnblogs.com/greengnn/'},
+                // {'Name':'糖伴西红柿','Title':'就职于豆瓣','Href':'http://www.gaowhen.com/'},
+                // {'Name':'Fenng','Title':'曾就职于支付宝','Href':'http://www.dbanotes.net/'},
+                // {'Name':'sofish','Title':'就职于支付宝','Href':'http://sofish.de/'},
+                // {'Name':'白鸦','Title':'就职于支付宝','Href':'http://uicom.net/blog/'},
+                // {'Name':'62mm','Title':'就职于支付宝','Href':'http://www.62mm.net/'},
+                // {'Name':'伯约(老鱼)','Title':'就职于支付宝','Href':'http://www.ioldfish.cn/'},
+                // {'Name':'怿飞(圆心,Blank)','Title':'就职于淘宝','Href':'http://www.planabc.net/'},
+                // {'Name':'明城(mingcheng)','Title':'就职于淘宝','Href':'http://www.gracecode.com/'},
+                // {'Name':'Der(崇志)','Title':'就职于淘宝','Href':'http://www.ueder.net/'},
+                // {'Name':'黑妞HAHA','Title':'就职于淘宝','Href':'http://heiniuhaha.cnblogs.com/'},
+                // {'Name':'飞长','Title':'就职于淘宝','Href':'http://www.veryued.org/'},
+                // {'Name':'Vilic','Title':'曾实习于淘宝(很有前途的90后)','Href':'http://www.vilic.info/blog/'},
+                // {'Name':'秦歌(Kaven)','Title':'就职于口碑网','Href':'http://dancewithnet.com/'},
+                // {'Name':'Emu(Stone)','Title':'就职于腾讯','Href':'http://blog.csdn.net/emu'},
+                // {'Name':'Ghost','Title':'就职于腾讯','Href':'http://www.cssforest.org/blog/'},
+                // {'Name':'Yuguo','Title':'就职于腾讯','Href':'http://yuguo.us/weblog/'},
+                // {'Name':'臭鱼','Title':'曾就职于腾讯','Href':'http://www.chouyu.com.cn/'},
+                // {'Name':'艾文王','Title':'就职于腾讯','Href':'http://blog.ivane.me/'},
+                // {'Name':'Danger','Title':'就职于腾讯','Href':'http://www.dengjie.com/'},
+                // {'Name':'神飞','Title':'就职于腾讯','Href':'http://www.qianduan.net/'},
+                // {'Name':'pufen(飘飘)','Title':'就职于腾讯','Href':'http://www.pufen.net/'},
+                // {'Name':'屈超','Title':'就职于腾讯','Href':'http://www.quchao.com/'},
+                // {'Name':'米随随','Title':'就职于腾讯','Href':'http://s5s5.me/'},
+                // {'Name':'大猫','Title':'就职于腾讯','Href':'http://ooxx.me/'},
+                // {'Name':'AVENIR(郑焕义)','Title':'就职于腾讯','Href':'http://caib.me/'},
+                // {'Name':'李振文','Title':'就职于腾讯','Href':'http://www.lizhenwen.com/'},
+                // {'Name':'OnLing','Title':'就职于腾讯','Href':'http://www.onling.net/blog/'},
+                // {'Name':'Xiaoxiao','Title':'就职于腾讯','Href':'http://liuyuntian.com/'},
+                // {'Name':'Seven','Title':'就职于腾讯','Href':'http://hiseven.net/'},
+                // {'Name':'Lerroy','Title':'就职于腾讯','Href':'http://lerroystory.com/'},
+                // {'Name':'小李刀刀','Title':'就职于腾讯','Href':'http://ofcss.com/'},
+                // {'Name':'飞鱼','Title':'就职于腾讯','Href':'http://qilei.org/'},
+                // {'Name':'Jeanne','Title':'就职于腾讯','Href':'http://csshouse.net/'},
+                // {'Name':'小JOE','Title':'就职于腾讯','Href':'http://xiebiji.com/'},
+                // {'Name':'偷米饭','Title':'曾就职于腾讯','Href':'http://tommyfan.com/blog/'},
+                // {'Name':'愚人码头','Title':'就职于搜道网','Href':'http://www.css88.com/'},
+                // {'Name':'子鼠,秀才','Title':'就职于百姓网','Href':'http://www.zishu.cn/'},
+                // {'Name':'Adam Lu','Title':'就职于新浪','Href':'http://adamlu.com/'},
+                // {'Name':'林小志','Title':'就职于携程','Href':'http://blog.linxz.de/'},
+                // {'Name':'小灰灰','Title':'就职于携程','Href':'http://ffpan.ctripued.com/'},
+                // {'Name':'smallni','Title':'就职于携程','Href':'http://www.smallni.com/'},
+                // {'Name':'彬Go','Title':'就职于人人','Href':'http://blog.bingo929.com/'},
+                // {'Name':'Rokey','Title':'曾就职于微软,网易,金山软件','Href':'http://www.rokey.net/'},
+                // {'Name':'Evance(布拉格)','Title':'就职于阿里巴巴日本','Href':'http://orzl.com/'},
+                // {'Name':'深空','Title':'就职于腾讯','Href':'http://www.phpfans.org/'},
+                // {'Name':'代码人(tomie)','Title':'就职于腾讯','Href':'http://daimaren.cn/blog/'},
+                // {'Name':'小爝(龙啸)','Title':'就职于淘宝','Href':'http://www.designsor.com/'},
+                // {'Name':'Aether','Title':'就职于土豆网','Href':'http://woooh.com/'},
+                // {'Name':'一葉千鳥','Title':'曾就职于盛大7月 -- 就职于Adobe','Href':'http://rexsong.com/'},
+                // {'Name':'周裕波','Title':'就职于盛大创新院','Href':'http://www.webchina110.cn/'},
+                // {'Name':'崔凯','Title':'就职于傲游','Href':'http://uicss.cn/'},
+                // {'Name':'welefen','Title':'就职于百度','Href':'http://www.welefen.com/'},
+                // {'Name':'kent.zhu','Title':'就职于百度','Href':'http://www.ikent.me/blog/'},
+                // {'Name':'aoao(嗷嗷)','Title':'就职于百度','Href':'http://www.aoao.org.cn/'},
+                // {'Name':'JerryQu','Title':'就职于百度','Href':'http://www.imququ.com/'},
+                // {'Name':'胡晓','Title':'就职于网易','Href':'http://hx.okvi.com/'},
+                // {'Name':'5key','Title':'就职于阿里巴巴','Href':'http://5key.net/blog/'},
+                // {'Name':'yaohaixiao','Title':'就职于阿里巴巴','Href':'http://www.yaohaixiao.com/'},
+                // {'Name':'Adam','Title':'就职于Yahoo','Href':'http://adamlu.com/'},
+                // {'Name':'slj(申力军)','Title':'就职于赶集','Href':'http://slj.me/'},
             ]
             },{
             "pageT2":"国外博客",
@@ -724,7 +762,7 @@ var FrontGuide = {
                 {'Name':'NicholasZakas','Title':'《高性能JavaScript》作者"','Href':'http://www.nczonline.net/'},
                 {'Name':'Addy Osmani','Title':'《Learning JavaScript Design Patterns 》作者"','Href':'http://addyosmani.com/'}
             ]
-
+            
         }],
     }],
 }
